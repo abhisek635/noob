@@ -1,2 +1,3 @@
 console.log("lazy computer");
-console.log("lazy Dawg");
+console.log("lazy potato");
+        
